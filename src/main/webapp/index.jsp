@@ -56,7 +56,7 @@
 </head>
 <body>
 
-  <h1>🚀 WAR Deployment Pipeline: GitHub → Jenkins → Tomcat</h1>
+  <h1>🚀 WAR Deployment Pipeline: GitHub → Jenkins → ProdENV Tomcat</h1>
 
   <div class="pipeline">
     <div class="step animated">

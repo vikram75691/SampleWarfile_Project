@@ -52,7 +52,7 @@ pipeline {
                 deployToTomcat('3.84.185.139', 'tomcat', 'tomcat', 'http://3.84.185.139:8080/manager/text', '/Sample-app-v1', 'Prod')
                 
                 // Send Slack notification
-                slackSend(channel: 'devops', message: "Deployment to PROD has been approved by manager.")
+                slackSend(channel: 'devops-new', message: "Deployment to PROD has been approved by manager.")
             }
         }
     }

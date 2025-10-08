@@ -61,7 +61,7 @@
   <div class="pipeline">
     <div class="step animated">
       <h3>GitHub Repo</h3>
-      <a href="https://github.com/rajinikanthvadla-ai/SampleWarfile_Project" target="_blank">
+      <a href="https://github.com/vikram75691/SampleWarfile_Project" target="_blank">
         <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo">
       </a>
       <p>Source code for WAR file</p>
@@ -71,7 +71,7 @@
 
     <div class="step animated">
       <h3>Jenkins Build</h3>
-      <a href="http://65.0.109.129:8080/job/Firts-Job/" target="_blank">
+      <a href="http://18.209.67.9:8080/job/Firts-Job/" target="_blank">
         <img src="https://www.jenkins.io/images/logos/needs-you/Jenkins_Needs_You-transparent.png" alt="Jenkins Logo" class="logo">
       </a>
       <p>Build & deploy WAR</p>
@@ -81,7 +81,7 @@
 
     <div class="step animated">
       <h3>Tomcat Server</h3>
-      <a href="http://13.201.37.119:8080/manager/html" target="_blank">
+      <a href="http://18.209.67.9:8080/manager/html" target="_blank">
         <img src="https://www.apache.org/logos/res/tomcat/default.png" alt="Tomcat Logo" class="logo">
       </a>
       <p>WAR deployed & running</p>

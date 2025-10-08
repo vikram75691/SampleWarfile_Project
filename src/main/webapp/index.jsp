@@ -71,7 +71,7 @@
 
     <div class="step animated">
       <h3>Jenkins Build</h3>
-      <a href="http://18.209.67.9:8080/job/Firts-Job/" target="_blank">
+      <a href="http://3.84.225.201:8080/job/Firts-Job/" target="_blank">
         <img src="https://www.jenkins.io/images/logos/needs-you/Jenkins_Needs_You-transparent.png" alt="Jenkins Logo" class="logo">
       </a>
       <p>Build & deploy WAR</p>
@@ -81,7 +81,7 @@
 
     <div class="step animated">
       <h3>Tomcat Server</h3>
-      <a href="http://18.209.67.9:8080/manager/html" target="_blank">
+      <a href="http://3.84.225.201:8080/manager/html" target="_blank">
         <img src="https://www.apache.org/logos/res/tomcat/default.png" alt="Tomcat Logo" class="logo">
       </a>
       <p>WAR deployed & running</p>
